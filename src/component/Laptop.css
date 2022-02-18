@@ -1,0 +1,12 @@
+.card {
+    box-shadow: rgb(99 99 99 / 20%) 0px 2px 8px 0px;
+    border-radius: 1rem;
+    padding: 2rem 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

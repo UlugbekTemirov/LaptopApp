@@ -1,0 +1,22 @@
+.form {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 4rem;
+}
+
+
+
+.form-group input {
+    margin-top: 0.5rem;
+    display: block;
+    font-size: 1.2rem;
+    border: none;
+    border-bottom: 1px solid rgba(75, 75, 75, 0.329);
+    outline: unset;
+    padding: 0.5rem 0;
+}
+
+.form-group label {
+    font-size: 1.2rem;
+}
